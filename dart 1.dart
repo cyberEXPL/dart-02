@@ -1,4 +1,4 @@
-//if the number is greatee than 10 
+//if the number is greater than 10 
 void main() {
   var number = 80;
   if ( number > 10) {
